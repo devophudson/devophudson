@@ -8,7 +8,7 @@
 - 📫 How to reach me : www.linkedin.com/in/
 hudson-martins-4151a115b
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I had a problems with math, but i choose programation like a area do act lol 
+- ⚡ Fun fact: I had a problems with math, but i choose programation like a area to act lol 
 
 <!---
 devophudson/devophudson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
