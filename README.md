@@ -4,7 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devophudson&custom_title=Das%20ist%20Hudson's%20Contribuition&hide_border=true&theme=github-dark)](https://github.com/devophudson/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devophudson&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devophudson&show_icons=true&theme=transparentn&hide_border=true)
 
 
 ## Linguagens de Programação
