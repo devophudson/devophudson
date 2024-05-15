@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNrNzkzOThrMTV2ZnBqeGV5cXBldXJqaGV4amk3bWd5MTl5cW5hYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cRb2TVfqxZsyojSr0G/giphy.gif" alt="Descrição opcional" width="100" style="border-radius: 50%;">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devophudson&custom_title=Das%20ist%20Hudson's%20Contribuition&hide_border=false&theme=github-dark)](https://github.com/devophudson/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devophudson&custom_title=Das%20ist%20Hudson's%20Contribuition&hide_border=true&theme=github-dark)](https://github.com/devophudson/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devophudson&show_icons=true&theme=transparent)
 
